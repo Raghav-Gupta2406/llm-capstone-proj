@@ -41,10 +41,11 @@ Overall, I picked this idea because it is simple, relevant to me as a student, a
 
 ## Plan
 
-I plan to excecute these steps to complete my project.
+I planned to execute these steps to complete my project:
 
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
+- [DONE] Step 1: Set up the project environment, create a new folder, configure the virtual environment, and install all required dependencies (LangChain, LangGraph, ChromaDB, OpenAI, etc.).
+
+- [DONE] Step 2: Prepare the dining hall menu data by creating a structured menu.json file containing all five meals (breakfast, lunch, evening snacks, dinner, midnight mess).
 - [TODO] Step 3 involves blah blah
 - ...
 - [TODO] Step n involves blah blah
