@@ -1,0 +1,33 @@
+{
+  "breakfast": [
+    {"name": "Idli Sambar", "tags": ["vegetarian","gluten-free"], "notes": "mild"},
+    {"name": "Masala Dosa", "tags": ["vegetarian"], "notes": "spicy"},
+    {"name": "Bread Omelette", "tags": ["contains-egg"], "notes": "contains-egg"},
+    {"name": "Cornflakes with Milk", "tags": ["vegetarian"], "notes": "quick"}
+  ],
+  "lunch": [
+    {"name":"Rajma Chawal","tags":["vegan","gluten-free"], "notes": ""},
+    {"name":"Dal Tadka","tags":["vegan","gluten-free"], "notes": ""},
+    {"name":"Egg Curry","tags":["contains-egg","non-veg"], "notes": "protein"},
+    {"name":"Chapati","tags":["vegan"], "notes": ""}
+  ],
+  "evening_snacks": [
+    {"name":"Maggi","tags":["vegetarian"], "notes": "quick"},
+    {"name":"Bread Pakoda","tags":["vegetarian"], "notes": "fried"},
+    {"name":"Tea","tags":["vegan"], "notes": "drink"},
+    {"name":"Pav Bhaji","tags":["vegetarian"], "notes": ""}
+  ],
+  "dinner": [
+    {"name":"Paneer Butter Masala","tags":["vegetarian"], "notes": "rich"},
+    {"name":"Jeera Rice","tags":["vegan","gluten-free"], "notes": ""},
+    {"name":"Roti","tags":["vegan"], "notes": ""},
+    {"name":"Butter Chicken","tags":["non-veg"], "notes": "less spicy"}
+  ],
+  "midnight_mess": [
+    {"name":"Paneer kulcha","tags":["vegetarian"], "notes": "oily"},
+    {"name":"Chicken Maggi","tags":["non-veg","spicy"], "notes": "spicy"},
+    {"name":"Aloo Paratha with butter","tags":["vegetarian"], "notes": "buttery"}
+
+  ]
+}
+
