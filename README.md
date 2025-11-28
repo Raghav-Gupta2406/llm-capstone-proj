@@ -22,17 +22,22 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 -------------------------
 
-# Project report Template
 
-## Title: [your title goes here]
+## Title: SNU Dining Query Bot
 
 ## Overview
 
-[your overview goes here. My project does this that  etc]
+This project is a small AI assistant I developed to quickly check what food is available in my college dining hall. By using LangChain, LangGraph, and embeddings, the system retrieves menu information and answers questions like “What’s for lunch?” or “Show vegetarian options.” It’s a simple real-world use case demonstrating basic RAG and state management.
 
 ## Reason for picking up this project
 
-Expain how this project is aligned with this course content.
+I chose this project because I wanted to work on something small, practical, and directly connected to my daily life on campus. Since I check the dining hall menu frequently, building an AI assistant that can answer simple meal-related queries felt meaningful and useful. Instead of choosing a big or complicated idea, I wanted a project that I could realistically complete while still applying all the important concepts taught in the course.
+
+This topic allowed me to cover multiple key areas from the syllabus in a clean and focused way. I used LangChain to manage the LLM interactions and prompting, and LangGraph to design a simple state-based workflow with nodes handling retrieval and response generation. I incorporated Retrieval-Augmented Generation (RAG) using embeddings and ChromaDB, which helped me demonstrate how vector stores and semantic search work in a real use case. By storing structured mess menu data and retrieving it based on the user’s natural language question, I could show my understanding of document loading, embeddings, vector indexing, retrieval, and context construction.
+
+I also selected this project because it was ideal for practicing prompt engineering, controlled output formats, and parsing, which are essential skills when working with LLMs. Even though the problem is simple, the pipeline includes all major steps—state management, retrieval, prompt design, LLM invocation, and producing a clean answer—which aligns perfectly with the course requirements.
+
+Overall, I picked this idea because it is simple, relevant to me as a student, and showcases all the core topics from the course in a practical and easy-to-understand way.
 
 ## Plan
 
