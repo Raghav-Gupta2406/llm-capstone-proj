@@ -33,9 +33,19 @@ When I ran graph.py, it showed me how the backend of my project works. The debug
 
 <img width="1597" height="529" alt="image" src="https://github.com/user-attachments/assets/b669212c-48d9-4b88-ad01-f2dc1792ca62" />
 
-- [DONE] Step 6: I built a simple terminal based interface in run.py so I could interact with the assistant. This let me choose a meal slot, ask questions and see the response clearly. It also made testing the system much easier. 
+- [DONE] Step 6: I built a simple terminal based interface in run.py so I could interact with the assistant. This let me choose a meal slot, ask questions and see the response clearly. It also made testing the system much easier.
 
+### Frontend (User Interface Explanation)
 
+For the frontend part, I created a simple terminal-based interface using run.py. This allowed me to interact with the system in a clean and user-friendly way. Through this interface, I could select a meal slot and ask questions directly and the assistant responded with the correct menu information. This helped me test the project in a more practical way instead of only relying on backend debug outputs.
+
+<img width="1538" height="510" alt="image" src="https://github.com/user-attachments/assets/6f4e72eb-2a4e-4f29-95af-28528398c34c" />
+
+<img width="1579" height="569" alt="image" src="https://github.com/user-attachments/assets/2159d3f3-b631-4af2-98ef-b2361a8c3adc" />
+
+We can also ask any question for eg: Options in lunch which contains proteins? 
+
+<img width="1582" height="528" alt="image" src="https://github.com/user-attachments/assets/cc6fbc12-459e-4733-9284-0c2bf83c2d93" />
 
 ## Conclusion:
 
