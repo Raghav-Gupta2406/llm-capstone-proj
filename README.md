@@ -1,28 +1,3 @@
-Template for creating and submitting MAT496 capstone project.
-
-# Overview of MAT496
-
-In this course, we have primarily learned Langgraph. This is helpful tool to build apps which can process unstructured `text`, find information we are looking for, and present the format we choose. Some specific topics we have covered are:
-
-- Prompting
-- Structured Output 
-- Semantic Search
-- Retreaval Augmented Generation (RAG)
-- Tool calling LLMs & MCP
-- Langgraph: State, Nodes, Graph
-
-We also learned that Langsmith is a nice tool for debugging Langgraph codes.
-
-------
-
-# Capstone Project objective
-
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, we can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
-
-
--------------------------
-
-
 ## Title: SNU Dining Query Bot
 
 ## Overview
@@ -48,27 +23,11 @@ I planned to execute these steps to complete my project:
 - [DONE] Step 2: In this step, I created a structured menu.json file containing all five meal slots from my college mess. I made sure the data was clean and consistent so it could be easily processed by my retriever later. This became the main dataset for my project.
 - [DONE] Step 3: Here, I loaded the menu data, generated embeddings using OpenAI, and stored them in a Chroma vector database. I then created a retriever that searches the mess menu semantically, so the system can understand natural questions like “What’s for dinner?”. This forms the core of the RAG pipeline.
 - [DONE] Step 4: I wrote a prompt template that guides the LLM on how to use the retrieved context and answer the user properly. This step helped me control the response format and avoid unnecessary or incorrect output. It made the system more reliable and readable.
-- ...
-- [TODO] Step n involves blah blah
+- [DONE] Step 5: In this step I created the graph structure using LangGraph with two nodes: one for retrieval and one for generating the final answer. I set up how data moves between the nodes using edges, so the question, context and answer flow smoothly through the pipeline.
 
 ## Conclusion:
 
 I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
-
-----------
-
-# Added instructions:
-
-- This is a `solo assignment`. Each of you will work alone. You are free to talk, discuss with chatgpt, but you are responsible for what you submit. Some students may be called for viva. You should be able to each and every line of work submitted by you.
-
-- `commit` History maintenance.
-  - Fork this respository and build on top of that.
-  - For every step in your plan, there has to be a commit.
-  - Change [TODO] to [DONE] in the plan, before you commit after that step. 
-  - The commit history should show decent amount of work spread into minimum two dates. 
-  - **All the commits done in one day will be rejected**. Even if you are capable of doing the whole thing in one day, refine it in two days.  
- 
- - Deadline: Nov 30, Sunday 11:59 pm
 
 
 # Grading: total 25 marks
