@@ -45,8 +45,8 @@ I planned to execute these steps to complete my project:
 
 - [DONE] Step 1: Set up the project environment, create a new folder, configure the virtual environment, and install all required dependencies (LangChain, LangGraph, ChromaDB, OpenAI, etc.).
 
-- [DONE] Step 2: Prepare the dining hall menu data by creating a structured menu.json file containing all five meals (breakfast, lunch, evening snacks, dinner, midnight mess).
-- [TODO] Step 3 involves blah blah
+- [DONE] Step 2: I prepared the dining hall menu data by creating a structured menu.json file containing all five meals of our college (breakfast, lunch, evening snacks, dinner, midnight mess).
+- [DONE] Step 3: I built the Retrieval-Augmented Generation (RAG) pipeline. Loaded the menu data, generated embeddings, and created a Chroma vector store inside retriever.py file.
 - ...
 - [TODO] Step n involves blah blah
 
