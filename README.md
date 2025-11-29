@@ -1,4 +1,6 @@
 ## Title: SNU Mess Menu Information System
+### AI-driven retrieval system for daily mess menu information
+------------
 
 ## Overview
 
