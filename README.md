@@ -33,11 +33,13 @@ When I ran graph.py, it showed me how the backend of my project works. The debug
 
 <img width="1597" height="529" alt="image" src="https://github.com/user-attachments/assets/b669212c-48d9-4b88-ad01-f2dc1792ca62" />
 
+- [DONE] Step 6: I built a simple terminal based interface in run.py so I could interact with the assistant. This let me choose a meal slot, ask questions and see the response clearly. It also made testing the system much easier. 
+
 
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
+I had planned to build a small and practical system that could answer simple questions about my college mess menu, and I was able to achieve that successfully. I implemented retrieval, embeddings, LangGraph workflow and a working user interface, and the final system gives accurate meal information based on natural queries. Overall I am satisfied with the outcome because the project works end to end and clearly demonstrates many concepts we learnt in the course.
 
 
 # Grading: total 25 marks
