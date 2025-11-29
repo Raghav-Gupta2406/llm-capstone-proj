@@ -1,4 +1,4 @@
-## Title: SNU Dining Query Bot
+## Title: SNU Mess Menu Information System
 
 ## Overview
 
