@@ -43,10 +43,11 @@ Overall, I picked this idea because it is simple, relevant to me as a student, a
 
 I planned to execute these steps to complete my project:
 
-- [DONE] Step 1: Set up the project environment, create a new folder, configure the virtual environment, and install all required dependencies (LangChain, LangGraph, ChromaDB, OpenAI, etc.).
+- [DONE] Step 1: I started by creating a new project folder and setting up a virtual environment so everything stays clean and organized. Then I installed all the required libraries like LangChain, LangGraph, ChromaDB, and OpenAI. This gave me the base setup needed to start building the project.
 
-- [DONE] Step 2: I prepared the dining hall menu data by creating a structured menu.json file containing all five meals of our college (breakfast, lunch, evening snacks, dinner, midnight mess).
-- [DONE] Step 3: I built the Retrieval-Augmented Generation (RAG) pipeline. Loaded the menu data, generated embeddings, and created a Chroma vector store inside retriever.py file.
+- [DONE] Step 2: In this step, I created a structured menu.json file containing all five meal slots from my college mess. I made sure the data was clean and consistent so it could be easily processed by my retriever later. This became the main dataset for my project.
+- [DONE] Step 3: Here, I loaded the menu data, generated embeddings using OpenAI, and stored them in a Chroma vector database. I then created a retriever that searches the mess menu semantically, so the system can understand natural questions like “What’s for dinner?”. This forms the core of the RAG pipeline.
+- [DONE] Step 4: I wrote a prompt template that guides the LLM on how to use the retrieved context and answer the user properly. This step helped me control the response format and avoid unnecessary or incorrect output. It made the system more reliable and readable.
 - ...
 - [TODO] Step n involves blah blah
 
