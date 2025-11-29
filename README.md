@@ -25,6 +25,13 @@ I planned to execute these steps to complete my project:
 - [DONE] Step 4: I wrote a prompt template that guides the LLM on how to use the retrieved context and answer the user properly. This step helped me control the response format and avoid unnecessary or incorrect output. It made the system more reliable and readable.
 - [DONE] Step 5: In this step I created the graph structure using LangGraph with two nodes: one for retrieval and one for generating the final answer. I set up how data moves between the nodes using edges, so the question, context and answer flow smoothly through the pipeline.
 
+### Backend Debug View
+
+When I ran graph.py, it showed me how the backend of my project works. The debug lines helped me see exactly what documents were being retrieved from the vector store and what metadata each item carried. I could also check the final context that was passed to the LLM and confirm that the answer being generated matched the items available for that meal. Seeing this output gave me confidence that my graph nodes, retrieval step and answer generation were all working properly before I built the user interface.
+
+![Uploading image.png…]()
+
+
 ## Conclusion:
 
 I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
