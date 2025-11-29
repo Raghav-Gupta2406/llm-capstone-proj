@@ -49,7 +49,7 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 ## Conclusion:
 
-I had planned to build a small and practical system that could answer simple questions about my college mess menu, and I was able to achieve that successfully. I implemented retrieval, embeddings, LangGraph workflow and a working user interface, and the final system gives accurate meal information based on natural queries. Overall I am satisfied with the outcome because the project works end to end and clearly demonstrates many concepts we learnt in the course.
+I'm not completely satisfied with the system's current performance, while it works, I know the accuracy needs significant improvement. I consider much of the work to still be in progress, as I focus on refining the core components to meet my initial goals.
 
 
 # Grading: total 25 marks
