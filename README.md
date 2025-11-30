@@ -52,6 +52,9 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 <img width="878" height="248" alt="image" src="https://github.com/user-attachments/assets/90ea0f92-09ee-4b8a-a9a6-f72682d9c55e" />
 
+- [DONE] Step 9: To extend the project further, I added a full-day calorie planner. Here the user can enter a target like “1500 calories for Wednesday” and the system prepares an approximate plan by selecting items across meals of that day. This step made the project more complete and helped me cover more topics related to structured data, reasoning and interactive design.
+
+<img width="1189" height="535" alt="image" src="https://github.com/user-attachments/assets/4ca734fe-c912-4707-81ed-716b43a5a786" />
 
 
 ## Conclusion:
