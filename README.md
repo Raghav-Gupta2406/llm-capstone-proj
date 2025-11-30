@@ -59,4 +59,4 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 ## Conclusion:
 
-I'm not completely satisfied with the system's current performance, while it works, I know the accuracy needs significant improvement. I consider much of the work to still be in progress, as I focus on refining the core components to meet my initial goals.
+I had planned to achieve a system that can read the weekly mess menu, answer menu queries, calculate nutrients from portions and generate a full-day meal plan. I think I have achieved these goals satisfactorily. The project works well and responds correctly to different user requests. I am satisfied because it clearly applies the key topics we learned such as prompt-based querying, structured outputs, tool creation, node-based workflow design and graph execution flow to build a practical and useful mess-menu assistant.
