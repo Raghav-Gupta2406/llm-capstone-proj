@@ -1,10 +1,14 @@
-## Title: SNU Mess Menu Information System
-### AI-driven retrieval system for daily mess menu information
+## Title: SNU Dining & Nutrition Assistant
+### A smart system to check daily mess meals and get nutrition-based suggestions.
 ------------
 
 ## Overview
 
-This project is a small AI assistant I developed to quickly check what food is available in my college dining hall. By using LangChain, LangGraph, and embeddings, the system retrieves menu information and answers questions like “What’s for lunch?” or “Show vegetarian options.” It’s a simple real-world use case demonstrating basic RAG and state management.
+This project is a practical AI assistant I built to help students quickly check the daily SNU mess menu and make better meal decisions without wasting time searching through multiple sources. The system can answer menu-related queries like “What’s for dinner on Wednesday?”, identify vegetarian or non-veg options, and retrieve complete meal details for any day and meal slot.
+
+Beyond basic retrieval, the assistant also supports nutrition-based queries using structured menu data for the entire week. Students can ask things like “I need 30g of protein for Friday dinner,” “How much protein will I get from 2.5 plates of 'X' and 3 rotis...?” or even generate a full-day calorie plan such as “Make a 1500-calorie plan for any day.” The system uses semantic lookup, rule-based calculations and structured responses to give clear and useful answers.
+
+The project follows the course concepts of state-based pipelines, retrieval flows, embedding-driven search and structured prompting — all implemented in an interactive terminal interface. Overall, this assistant makes exploring dining options and planning nutrition simpler, faster and healthier for students on campus.
 
 ## Reason for picking up this project
 
