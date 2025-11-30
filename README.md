@@ -46,6 +46,9 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 - [DONE] Step 7: After finishing the basic menu bot, I improved the interaction by allowing the user to type questions directly instead of selecting fixed options. I added simple text-based understanding so that when someone writes “What is for lunch on Wednesday?”, the system can read the input, pick out the day and meal and show the correct menu. This made the project feel more natural and easier to use.
 
+<img width="968" height="218" alt="image" src="https://github.com/user-attachments/assets/20a9ea47-0e6e-4c9d-be7f-443758cd608d" />
+
+
 ## Conclusion:
 
 I'm not completely satisfied with the system's current performance, while it works, I know the accuracy needs significant improvement. I consider much of the work to still be in progress, as I focus on refining the core components to meet my initial goals.
