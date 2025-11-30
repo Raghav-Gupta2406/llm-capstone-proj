@@ -27,15 +27,12 @@ I planned to execute these steps to complete my project:
 - [DONE] Step 4: I wrote a prompt template that guides the LLM on how to use the retrieved context and answer the user properly. This step helped me control the response format and avoid unnecessary or incorrect output. It made the system more reliable and readable.
 - [DONE] Step 5: In this step I created the graph structure using LangGraph with two nodes: one for retrieval and one for generating the final answer. I set up how data moves between the nodes using edges, so the question, context and answer flow smoothly through the pipeline.
 
-### Backend 
-
 When I ran graph.py, it showed me how the backend of my project works. The debug lines helped me see exactly what documents were being retrieved from the vector store and what metadata each item carried. I could also check the final context that was passed to the LLM and confirm that the answer being generated matched the items available for that meal. Seeing this output gave me confidence that my graph nodes, retrieval step and answer generation were all working properly before I built the user interface.
 
 <img width="1597" height="529" alt="image" src="https://github.com/user-attachments/assets/b669212c-48d9-4b88-ad01-f2dc1792ca62" />
 
 - [DONE] Step 6: I built a simple terminal based interface in run.py so I could interact with the assistant. This let me choose a meal slot, ask questions and see the response clearly. It also made testing the system much easier.
 
-### Frontend (User Interface Explanation)
 
 For the frontend part, I created a simple terminal-based interface using run.py. This allowed me to interact with the system in a clean and user-friendly way. Through this interface, I could select a meal slot and ask questions directly and the assistant responded with the correct menu information. This helped me test the project in a more practical way instead of only relying on backend debug outputs.
 
@@ -47,13 +44,8 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 <img width="1582" height="528" alt="image" src="https://github.com/user-attachments/assets/cc6fbc12-459e-4733-9284-0c2bf83c2d93" />
 
+- [DONE] Step 7: After finishing the basic menu bot, I improved the interaction by allowing the user to type questions directly instead of selecting fixed options. I added simple text-based understanding so that when someone writes “What is for lunch on Wednesday?”, the system can read the input, pick out the day and meal and show the correct menu. This made the project feel more natural and easier to use.
+
 ## Conclusion:
 
 I'm not completely satisfied with the system's current performance, while it works, I know the accuracy needs significant improvement. I consider much of the work to still be in progress, as I focus on refining the core components to meet my initial goals.
-
-
-# Grading: total 25 marks
-
-- Coverage of most of topics in this class: 20
-- Creativity: 5
-  
