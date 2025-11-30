@@ -1,0 +1,247 @@
+{
+  "monday": {
+    "breakfast": [
+      {"name": "Methi Paratha","tags":["vegetarian"],"calories":280,"protein":6,"fats":10,"carbs":36,"portion":"1 paratha"},
+      {"name":"Aloo Chana Bhaji","tags":["vegetarian"],"calories":150,"protein":4,"fats":6,"carbs":20,"portion":"1 small bowl"},
+      {"name":"Banana","tags":["vegan","fruit"],"calories":90,"protein":1,"fats":0.3,"carbs":23,"portion":"1 medium"}
+    
+    ],
+    "lunch": [
+      {"name":"Mix Vegetable","tags":["vegetarian"],"calories":220,"protein":7,"fats":8,"carbs":30,"portion":"1 plate"},
+      {"name":"Dal Maharani","tags":["vegetarian","protein"],"calories":200,"protein":12,"fats":6,"carbs":18,"portion":"1 bowl"},
+      {"name":"Pea Pulao","tags":["vegetarian","carb"],"calories":260,"protein":6,"fats":8,"carbs":40,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Butter Chicken","tags":["non-vegetarian","carb"],"calories":300,"protein":15,"fats":6,"carbs":30,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Arbi Hara Pyaz","tags":["vegetarian"],"calories":210,"protein":5,"fats":9,"carbs":28,"portion":"1 plate"},
+      {"name":"Dal Panchmel","tags":["vegetarian","protein"],"calories":190,"protein":11,"fats":5,"carbs":20,"portion":"1 bowl"},
+      {"name":"Butter Chicken","tags":["non-veg"],"calories":420,"protein":28,"fats":28,"carbs":6,"portion":"1 serving"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Kadhai Chicken","tags":["non-vegetarian","carb"],"calories":280,"protein":14,"fats":6,"carbs":20,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "tuesday": {
+    "breakfast": [
+      {"name":"Uttapam","tags":["vegetarian"],"calories":200,"protein":6,"fats":8,"carbs":28,"portion":"1 medium"},
+      {"name":"Cut Papaya","tags":["vegan","fruit"],"calories":60,"protein":1,"fats":0.2,"carbs":15,"portion":"1 cup"},
+      {"name":"Coleslaw Sandwich","tags":["vegetarian"],"calories":250,"protein":6,"fats":10,"carbs":30,"portion":"1 sandwich"}
+      
+    ],
+    "lunch": [
+      {"name":"Khata Meetha Petha (veg)","tags":["vegetarian"],"calories":230,"protein":6,"fats":8,"carbs":32,"portion":"1 plate"},
+      {"name":"Pindi Choley","tags":["vegetarian","protein"],"calories":280,"protein":12,"fats":10,"carbs":30,"portion":"1 bowl"},
+      {"name":"Jeera Rice","tags":["vegetarian","carb"],"calories":240,"protein":5,"fats":6,"carbs":42,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Methi Chicken","tags":["non-vegetarian","carb"],"calories":300,"protein":15,"fats":6,"carbs":30,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Soya Keema Matar","tags":["vegetarian","protein"],"calories":250,"protein":18,"fats":10,"carbs":18,"portion":"1 plate"},
+      {"name":"Rajma Masala","tags":["vegetarian","protein"],"calories":260,"protein":10,"fats":8,"carbs":30,"portion":"1 bowl"},
+      {"name":"Steamed Rice","tags":["vegetarian","carb"],"calories":200,"protein":4,"fats":1,"carbs":44,"portion":"1 cup"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Home Style Chicken","tags":["non-vegetarian","carb"],"calories":290,"protein":15,"fats":6,"carbs":28,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "wednesday": {
+    "breakfast": [
+      {"name":"Pav","tags":["vegetarian","carb"],"calories":180,"protein":5,"fats":4,"carbs":32,"portion":"2 pieces"},
+      {"name":"Mix Veg Bhaji","tags":["vegetarian"],"calories":160,"protein":5,"fats":6,"carbs":20,"portion":"1 bowl"},
+      {"name":"Sprouts","tags":["vegan","protein"],"calories":90,"protein":7,"fats":1,"carbs":15,"portion":"1 small bowl"}
+    ],
+    "lunch": [
+      {"name":"Paneer Do Pyaza","tags":["vegetarian"],"calories":320,"protein":18,"fats":20,"carbs":12,"portion":"1 plate"},
+      {"name":"Dal Black Masoor","tags":["vegetarian","protein"],"calories":200,"protein":12,"fats":6,"carbs":18,"portion":"1 bowl"},
+      {"name":"Steamed Rice","tags":["vegetarian","carb"],"calories":200,"protein":4,"fats":1,"carbs":44,"portion":"1 cup"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Chicken Korma","tags":["non-vegetarian","carb"],"calories":250,"protein":18,"fats":6,"carbs":26,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Methi Matar Malai","tags":["vegetarian"],"calories":280,"protein":6,"fats":18,"carbs":20,"portion":"1 plate"},
+      {"name":"Dal Makhani","tags":["vegetarian","protein"],"calories":300,"protein":14,"fats":16,"carbs":18,"portion":"1 bowl"},
+      {"name":"Veg Clear Soup","tags":["vegetarian","soup"],"calories":80,"protein":2,"fats":2,"carbs":12,"portion":"1 cup"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Chicken Musalam Curry","tags":["non-vegetarian","carb"],"calories":300,"protein":15,"fats":6,"carbs":30,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "thursday": {
+    "breakfast": [
+      {"name":"Idli","tags":["vegetarian","light"],"calories":120,"protein":4,"fats":1,"carbs":24,"portion":"2 pieces"},
+      {"name":"Sambar / Coconut Chutney","tags":["vegetarian"],"calories":80,"protein":3,"fats":4,"carbs":8,"portion":"1 small bowl"},
+      {"name":"Watermelon","tags":["vegan","fruit"],"calories":45,"protein":1,"fats":0.2,"carbs":11,"portion":"1 cup"}
+    ],
+    "lunch": [
+      {"name":"Palak Corn","tags":["vegetarian"],"calories":200,"protein":6,"fats":8,"carbs":26,"portion":"1 plate"},
+      {"name":"Rajma Rasella","tags":["vegetarian","protein"],"calories":260,"protein":12,"fats":8,"carbs":30,"portion":"1 bowl"},
+      {"name":"Dhaniya Pulao","tags":["vegetarian","carb"],"calories":270,"protein":6,"fats":8,"carbs":44,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Egg Curry","tags":["non-vegetarian","protein"],"calories":200,"protein":24,"fats":6,"carbs":20,"portion":"2 pieces"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Gatta Curry","tags":["vegetarian"],"calories":260,"protein":7,"fats":14,"carbs":22,"portion":"1 plate"},
+      {"name":"Arhar Dal Tadka","tags":["vegetarian","protein"],"calories":200,"protein":12,"fats":6,"carbs":18,"portion":"1 bowl"},
+      {"name":"Dum Ka Pulao","tags":["vegetarian","carb"],"calories":300,"protein":6,"fats":8,"carbs":50,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Murg Al Rara","tags":["non-vegetarian","carb"],"calories":288,"protein":20,"fats":8,"carbs":32,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "friday": {
+    "breakfast": [
+      {"name":"Poori","tags":["vegetarian","fried"],"calories":220,"protein":5,"fats":12,"carbs":26,"portion":"2 pieces"},
+      {"name":"Aloo Bhaji","tags":["vegetarian"],"calories":140,"protein":3,"fats":8,"carbs":18,"portion":"1 bowl"},
+      {"name":"Cut Papaya","tags":["vegan","fruit"],"calories":60,"protein":1,"fats":0.2,"carbs":15,"portion":"1 cup"}
+    ],
+    "lunch": [
+      {"name":"Shimla Mirch Aloo","tags":["vegetarian"],"calories":220,"protein":5,"fats":8,"carbs":28,"portion":"1 plate"},
+      {"name":"Punjabi Kadi Pakoda","tags":["vegetarian"],"calories":260,"protein":8,"fats":12,"carbs":26,"portion":"1 bowl"},
+      {"name":"Jeera Pulao","tags":["vegetarian","carb"],"calories":260,"protein":6,"fats":8,"carbs":44,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Chicken 65","tags":["non-vegetarian","carb"],"calories":300,"protein":18,"fats":6,"carbs":28,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Bhaigan Ka Bharta","tags":["vegetarian"],"calories":200,"protein":5,"fats":10,"carbs":20,"portion":"1 plate"},
+      {"name":"Moong Dal Tadka","tags":["vegetarian","protein"],"calories":180,"protein":12,"fats":4,"carbs":18,"portion":"1 bowl"},
+      {"name":"Manchow Soup","tags":["vegetarian","soup"],"calories":90,"protein":3,"fats":2,"carbs":14,"portion":"1 cup"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Chicken do Pyaza","tags":["non-vegetarian","carb"],"calories":310,"protein":19,"fats":6,"carbs":30,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "saturday": {
+    "breakfast": [
+      {"name":"Corn Flakes","tags":["vegetarian","cereal"],"calories":150,"protein":4,"fats":2,"carbs":30,"portion":"1 bowl"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"},
+      {"name":"Banana","tags":["vegan","fruit"],"calories":90,"protein":1,"fats":0.3,"carbs":23,"portion":"1 medium"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"}
+    ],
+    "lunch": [
+      {"name":"Gobhi Aloo Matar","tags":["vegetarian"],"calories":230,"protein":6,"fats":10,"carbs":28,"portion":"1 plate"},
+      {"name":"Dal Makhani","tags":["vegetarian","protein"],"calories":300,"protein":14,"fats":16,"carbs":18,"portion":"1 bowl"},
+      {"name":"Jeera Rice","tags":["vegetarian","carb"],"calories":240,"protein":5,"fats":6,"carbs":42,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Fish Curry","tags":["non-vegetarian","protein"],"calories":315,"protein":28,"fats":6,"carbs":17,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Lauki Kofta Curry","tags":["vegetarian"],"calories":240,"protein":6,"fats":12,"carbs":24,"portion":"1 plate"},
+      {"name":"Dal Dhaba","tags":["vegetarian","protein"],"calories":220,"protein":12,"fats":8,"carbs":20,"portion":"1 bowl"},
+      {"name":"Tomato Shorba Soup","tags":["vegetarian","soup"],"calories":80,"protein":2,"fats":2,"carbs":12,"portion":"1 cup"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Dum ka Murg","tags":["non-vegetarian","carb"],"calories":245,"protein":14,"fats":5,"carbs":24,"portion":"1 bowl"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  },
+
+  "sunday": {
+    "breakfast": [
+      {"name":"Bhature","tags":["vegetarian","fried"],"calories":300,"protein":6,"fats":18,"carbs":34,"portion":"2 pieces"},
+      {"name":"Chhole","tags":["vegetarian","protein"],"calories":260,"protein":12,"fats":10,"carbs":30,"portion":"1 bowl"},
+      {"name":"Sprouts","tags":["vegan","protein"],"calories":90,"protein":7,"fats":1,"carbs":15,"portion":"1 small bowl"}
+    ],
+    "lunch": [
+      {"name":"Paneer Lababdar","tags":["vegetarian"],"calories":340,"protein":18,"fats":20,"carbs":18,"portion":"1 plate"},
+      {"name":"Chana Dal Tadka","tags":["vegetarian","protein"],"calories":220,"protein":12,"fats":8,"carbs":20,"portion":"1 bowl"},
+      {"name":"Dhaniya Pulao","tags":["vegetarian","carb"],"calories":270,"protein":6,"fats":8,"carbs":44,"portion":"1 plate"},
+      {"name":"Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"},
+      {"name":"Fried Chicken","tags":["non-vegetarian","carb"],"calories":315,"protein":14,"fats":6,"carbs":32,"portion":"1 bowl"}
+    ],
+    "evening_snacks": [
+      {"name":"Dosa","tags":["vegetarian"],"calories":160,"protein":4,"fats":6,"carbs":24,"portion":"1 medium"},
+      {"name":"Pav Bhaji","tags":["vegetarian"],"calories":240,"protein":6,"fats":10,"carbs":30,"portion":"1 plate"},
+      {"name":"Chicken Tikka","tags":["non-veg","grilled"],"calories":220,"protein":26,"fats":10,"carbs":4,"portion":"4 pieces"},
+      {"name":"Coffee","tags":["drink"],"calories":60,"protein":0.5,"fats":2,"carbs":8,"portion":"1 cup"},
+      {"name":"Paneer Tikka Bread Roll","tags":["vegetarian"],"calories":300,"protein":12,"fats":14,"carbs":28,"portion":"1 roll"}
+    ],
+    "dinner": [
+      {"name":"Sarso Ka Saag","tags":["vegetarian"],"calories":240,"protein":6,"fats":12,"carbs":22,"portion":"1 plate"},
+      {"name":"Dal Panchmel","tags":["vegetarian","protein"],"calories":190,"protein":11,"fats":5,"carbs":20,"portion":"1 bowl"},
+      {"name":"Missi Roti","tags":["vegetarian","carb"],"calories":150,"protein":5,"fats":6,"carbs":20,"portion":"1 roti"}
+    ],
+    "midnight_mess": [
+      {"name":"Chicken Maggi","tags":["non-veg","quick"],"calories":320,"protein":12,"fats":8,"carbs":50,"portion":"1 bowl"},
+      {"name":"Paneer Kulcha","tags":["vegetarian"],"calories":350,"protein":14,"fats":18,"carbs":32,"portion":"1 piece"},
+      {"name":"Aloo Paratha","tags":["vegetarian"],"calories":300,"protein":6,"fats":12,"carbs":36,"portion":"1 paratha"},
+      {"name":"Hot Milk","tags":["vegetarian","drink"],"calories":150,"protein":8,"fats":7,"carbs":12,"portion":"1 cup"}
+    ]
+  }
+}
