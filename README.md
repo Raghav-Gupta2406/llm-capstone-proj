@@ -48,6 +48,11 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 <img width="968" height="218" alt="image" src="https://github.com/user-attachments/assets/20a9ea47-0e6e-4c9d-be7f-443758cd608d" />
 
+- [DONE] Step 8: Next, I added nutrition features to make the system more useful. Using the weekly JSON menu, the program can calculate how much protein or calories a person will get from the portions they choose. It also supports questions like wanting to reach a protein target for a particular meal. All values like calories, proteins and portions are processed directly from the JSON data.
+
+<img width="878" height="248" alt="image" src="https://github.com/user-attachments/assets/90ea0f92-09ee-4b8a-a9a6-f72682d9c55e" />
+
+
 
 ## Conclusion:
 
