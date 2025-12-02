@@ -60,7 +60,13 @@ We can also ask any question for eg: Options in lunch which contains proteins?
 
 <img width="1189" height="535" alt="image" src="https://github.com/user-attachments/assets/4ca734fe-c912-4707-81ed-716b43a5a786" />
 
+- [DONE] Step 10: In the last step I recorded a video explaining my project. I talked about how I first created a basic version then upgraded it to a full weekly mess menu assistant. I also demonstrated how the menu lookup and calorie planner work. This final video completed the project and gave a presentation of things I built.
 
 ## Conclusion:
 
-I had planned to achieve a system that can read the weekly mess menu, answer menu queries, calculate nutrients from portions and generate a full-day meal plan. I think I have achieved these goals satisfactorily. The project works well and responds correctly to different user requests. I am satisfied because it clearly applies the key topics we learned such as prompt-based querying, structured outputs, tool creation, node-based workflow design and graph execution flow to build a practical and useful mess-menu assistant.
+I had planned to achieve a system that can read the weekly mess menu, answer menu queries, calculate nutrients from portions and generate a full-day meal plan. I think I have achieved these goals satisfactorily. The project works well and responds correctly to different user requests. I am satisfied because it clearly applies the key topics we learned such as prompt-based querying, structured outputs, tool creation, node-based workflow design and graph execution flow to build a practical and useful mess-menu assistant. The video below gives the demonstration of whatever I did.
+----------
+
+## Video Summary 
+
+https://drive.google.com/file/d/1-yQGf18pDMess2XwWfDOK9h9Nc9CkT9_/view?usp=drive_link
